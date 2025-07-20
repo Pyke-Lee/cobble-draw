@@ -1,0 +1,11 @@
+name: cobble-lottery
+version: 1.0.0
+main: io.github.pyke.Main
+description: Performs a random draw using cobblestone
+author:
+  - Pyke_Lee
+api-version: '1.21.4'
+commands:
+  cobbledraw:
+    description: Use cobblestone 64 to draw a random item
+    usage: /<command>
